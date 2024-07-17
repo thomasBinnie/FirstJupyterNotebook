@@ -1,1 +1,1 @@
-Here is my first assignment in my IBM data science course. It includes a juoyter notebook which uses some of the general functions learned in the second course as well as giving some key information regarding data science.
+Here is my first assignment in my IBM data science course. It includes a jupyter notebook which uses some of the general functions learned in the second course as well as giving some key information regarding data science.
